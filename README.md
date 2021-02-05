@@ -1,4 +1,4 @@
-### Hi there 👋
+[![mrpossoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpossoms)](https://github.com/mrpossoms/github-readme-stats)
 
 <!--
 **mrpossoms/mrpossoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
